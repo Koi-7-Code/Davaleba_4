@@ -1,0 +1,189 @@
+/* logo */
+.head_class {
+    width: 1440px;
+    background-color: #D9D9D9;
+    margin: auto;
+}
+
+.class_logo {
+    padding: 50px 130px;
+    vertical-align: middle;
+}
+
+/* navigation bar */
+.navigation_class {
+    display: inline-block;
+}
+
+.class_list {
+    display: inline-block;
+    vertical-align: middle;
+    color: #717276;
+    font-family: "ALK Life", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.active {
+    color: #A62B28;
+}
+
+.first {
+    margin-left: 157px;
+}
+
+.second {
+    margin-inline: 38px;
+}
+
+.third {
+    margin-inline: 38px;
+}
+
+/* img_billboard */
+.billboard {
+    display: block;
+    margin: 150px auto;
+}
+
+/*  */
+
+.article_class {
+    width: 1180px;
+    margin: auto;
+
+
+}
+
+.Feather_pen {
+    background: #A62B28;
+    padding: 30px 30px;
+    vertical-align: middle;
+
+
+}
+
+.head1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+    color: #717276;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+/* books */
+.books {
+    width: 1180px;
+    margin: auto;
+}
+
+.figure_class {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.img_class {
+    margin-top: 40px;
+}
+
+.second_book {
+    margin-inline: 16px;
+}
+
+.class_author {
+    color: #717276;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 39px;
+    margin-top: 50px;
+}
+
+.class_book {
+    color: #000;
+    font-family: "ALK Life", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-block: 8px;
+}
+
+.class_price {
+    color: #000;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/* authors */
+.authors {
+    width: 1400px;
+    margin: 160px auto;
+
+}
+
+.famous_author {
+    width: 1180px;
+    margin: auto;
+}
+
+.class_authors {
+    margin-top: 40px;
+    width: 280px;
+
+}
+
+.second_author {
+    margin-inline: 16px;
+}
+
+.fourth_author {
+    margin-left: 16px;
+}
+
+/* footer */
+.footer_class {
+    width: 1440px;
+    background-color: #D9D9D9;
+    margin: auto;
+    padding: 71px 130px;
+
+
+}
+
+.ul_text {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer_text {
+    color: #000;
+    font-family: "ALK Life", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.second_text {
+    margin-block: 8px;
+}
+
+.footer_icons {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.first_icon {
+    margin-left: 823px;
+
+}
+
+.second_icon {
+    margin-inline: 16px;
+}
+
+.third_icon {
+    margin-left: 16px;
+}
